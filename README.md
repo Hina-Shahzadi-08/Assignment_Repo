@@ -1,1 +1,3 @@
-# Assignment_Repo
+# Steps to Perform 
+Push /Pull
+Branching
